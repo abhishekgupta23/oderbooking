@@ -1,2 +1,2 @@
-sqlAlchemy-dev
+sqlAlchemy == 1.4.15
 sessionmaker-dev
