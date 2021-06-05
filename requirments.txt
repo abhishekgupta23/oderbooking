@@ -1,2 +1,0 @@
-sqlAlchemy-dev
-sessionmaker-dev
